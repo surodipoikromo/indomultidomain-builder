@@ -80,13 +80,3 @@ Some source datasets cannot be fetched automatically from anonymous environments
 Code in this repository is released under the MIT License.
 
 The code license **does not apply to third-party datasets or their underlying texts**. Users must comply with the original source licenses and attribution requirements.
-
-## Citation
-
-If you use IndoMultiDomain, cite the dataset release and the associated resource paper when available.
-
-Dataset:
-
-> Ikromo, S. (2026). *IndoMultiDomain: A Provenance-Aware and Harmonized Multi-Domain Corpus for Indonesian NLP*, Version 1.0.0.
-
-Hugging Face: https://huggingface.co/datasets/surodipoikromo/IndoMultiDomain
