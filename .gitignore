@@ -1,0 +1,17 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+*.zip
+*.parquet
+*.xlsx
+*.xls
+raw/
+data/
+02_raw_sources/
+03_harmonized/
+04_analysis/
+frozen_candidate/
+outputs/

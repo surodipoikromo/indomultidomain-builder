@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the IndoMultiDomain dataset and associated resource paper."
+title: "IndoMultiDomain Builder & Audit"
+type: software
+authors:
+  - family-names: "Ikromo"
+    given-names: "Surodipo"
+version: "1.0.0"
+date-released: "2026-09-16"
+repository-code: "https://github.com/surodipoikromo/indomultidomain-builder"
